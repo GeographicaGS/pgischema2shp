@@ -24,6 +24,11 @@ ENGINE=pgsql2shp
 QUERYTYPE=views
 ```
 
+## Requirements
+- GDAL.
+- pgsql2shp.
+- psycopg2.
+
 ## About author
 Developed by Cayetano Benavent.
 GIS Analyst at Geographica.
